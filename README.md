@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a student of the Programming Technique, I am currently halfway through the degree and C #, C++, Python, are the programming languages ​​in which I feel comfortable. I love learning, I look for a way to learn what I need to build something new, productive, innovative and creative.
-* **I am interested in winform applications in C# with connections to a sql server database**
+* **I am interested in webform or winform applications in C# with connections to a sql server database**
 - 🌱 I’m currently learning ...
   - practices in C# .Net Framework
   - different database(Sql server & nosql)
